@@ -32,7 +32,8 @@ export default {
    ** Nuxt.js modules
    */
   modules: [
-    '@nuxt/content'
+    '@nuxt/content',
+    '@nuxtjs/tailwindcss'
   ],
   /*
    ** Build configuration

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>{{ page.title }}</h1>
+    <h1 class="text-4xl">{{ page.title }}</h1>
     <nuxt-content :document="page" />
   </div>
 </template>
